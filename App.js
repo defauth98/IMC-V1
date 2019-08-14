@@ -75,16 +75,17 @@ export default class imcApp extends Component {
     let IMC = 0
     this.setState({textResult:''})
     this.setState({numberResult:''})
-    let peso = this.state.peso
-    let altura = this.state.altura
+    let peso = float(this.state.peso)
+    let altura = float(this.state.altura)
+   
     let alturaCM = altura / 100
 
-    if(peso == 0 && altura == '0'){
+    if(peso == 0 && altura == 0){
       this.setState({textResult:'Insira os dados'}), 
       this.setState({numberResult:0})   
       return
     }
-    if (altura == '0' ){
+    if (altura == 0 ){
       this.setState({textResult:'Insira a altura'}), 
       this.setState({numberResult:0}) 
       this.setState({altura:''})

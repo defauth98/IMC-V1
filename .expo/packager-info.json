@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 2091,
-  "expoServerNgrokUrl": "https://6f-zc9.defauth.imc-app.exp.direct",
-  "packagerNgrokUrl": "https://packager.6f-zc9.defauth.imc-app.exp.direct",
-  "ngrokPid": 2363
+  "devToolsPort": 19003,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
