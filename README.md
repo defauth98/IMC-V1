@@ -17,7 +17,7 @@
 ----
 ## Como rodar o projeto
 
-1. Instalar o node
+Instalar o node
 ```bash
 # Usando arch linux
 pacman -S nodejs npm
@@ -31,19 +31,19 @@ curl -sL https://deb.nodesource.com/setup_12.x | bash -
 apt-get install -y nodejs
 ```
 
-2. Instalar o expo-cli
+Instalar o expo-cli
 ```bash
 # Com npm
 npm install expo-cli --global
 ```
 
-3. Instalar as depedencias do projeto
+Instalar as depedencias do projeto
 ```bash
 # Com npm
 npm install
 ```
 
-4. Rodar o projeto!!
+Rodar o projeto!!
 ```bash
 # Com npm
 npm start
