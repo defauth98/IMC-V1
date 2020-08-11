@@ -1,9 +1,9 @@
 <h3 align="center">
-  :muscle: IMC APP - v1
+  :muscle: IMC APP - v2
 </h3>
 
 <p align="center">
-  <img src="./.github/imc-v1.svg">
+  <img src="./.github/imc-v2.svg">
 </p>
 
 ----

@@ -20,12 +20,15 @@ const FormItem = (props) => {
 const styles = StyleSheet.create({
   container: {
     flexDirection: "column",
+    alignItems: "center",
   },
   label: {
-    fontSize: 30,
+    color: "#fff",
+    fontSize: 40,
     marginBottom: 5,
   },
   input: {
+    alignItems: "center",
     marginBottom: 10,
     height: 50,
     fontSize: 30,
